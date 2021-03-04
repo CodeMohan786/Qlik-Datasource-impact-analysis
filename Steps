@@ -1,0 +1,12 @@
+Steps:
+
+1: Open node js on the connect.js location and open cmd 
+                set NODE_TLS_REJECT_UNAUTHORIZED=0
+
+                node connect.js
+
+2: rename output folder to output_old and then create a new output folder
+
+3: Run pythonparse.py
+
+it will start creating files .json with load scripts of apps in output folder
